@@ -16,13 +16,14 @@ This work introduces a generative approach to perform **semantic upscaling** fro
 ## Key Features
 
 - **Dual-Pathway Framework** 
-<p align="center">
-  <img src="assets/animalier_result_corner.png" alt="Result of an expanded texture with irregular pattern" width="45%"/>
-  <img src="assets/wool2_result_cornice.png" alt="Result of an expanded texture with regular pattern" width="45%"/>
-</p>
   Adaptive generation strategies based on textile topology:
-  - Regular / Geometric patterns  
-  - Irregular / Organic patterns  
+  - Regular / Geometric patterns (first figure)
+  - Irregular / Organic patterns (second figure)  
+<p align="center">
+  <img src="assets/wool2_result_cornice.png" alt="Result of an expanded texture with regular pattern" width="45%"/>
+  <img src="assets/animalier_result_corner.png" alt="Result of an expanded texture with irregular pattern" width="45%"/>
+</p>
+
 
 - **Visual Guidance (IP-Adapter)**  
   Uses image-based conditioning to control weave density and material identity, overcoming the limitations of text-only prompts.
