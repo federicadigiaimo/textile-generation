@@ -60,6 +60,6 @@ This work introduces a generative approach to perform **semantic upscaling** fro
 
 ## Authors
 
-- **Federica Di Giaimo**  
-- **Supervisor:** Prof.ssa Serena Morigi  
-- **Co-supervisor:** Paolo Zuzolo
+- [**Federica Di Giaimo**](https://github.com/federicadigiaimo)  
+- **Supervisor:** [Prof.ssa Serena Morigi](https://www.unibo.it/sitoweb/serena.morigi)  
+- **Co-supervisor:** [Paolo Zuzolo](https://www.unibo.it/sitoweb/paolo.zuzolo2)
