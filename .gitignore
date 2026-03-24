@@ -1,6 +1,5 @@
 runs/
-*.jpg
-*.png
+Texture/
 *.jpeg
 *.gif
 *.JPG
