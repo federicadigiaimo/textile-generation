@@ -1,4 +1,4 @@
-# Textile Generation using Latent Diffusion Models
+# Textile Generation based on Diffusion Models
 
 This repository contains a toolkit for the semantic expansion and synthesis of textile textures, developed as part of a Master’s Thesis in Computer Engineering at the University of Bologna.
 
