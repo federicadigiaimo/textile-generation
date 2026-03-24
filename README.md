@@ -52,6 +52,8 @@ This work introduces a generative approach to perform **semantic upscaling** fro
 ├── .gitignore
 ├── LICENSE
 
+
+```
 ## Authors
 
 - **Federica Di Giaimo**  
