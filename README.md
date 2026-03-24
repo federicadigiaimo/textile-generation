@@ -24,10 +24,7 @@ This work introduces a generative approach to perform **semantic upscaling** fro
   Uses image-based conditioning to control weave density and material identity, overcoming the limitations of text-only prompts.
 
 - **Native Tileability**  
-  Seamless textures are achieved through:
-  - Noise Rolling  
-  - Circular Padding
-  They are applied directly within the denoising loop, effectively modeling the latent space as a toroidal surface.
+  Seamless textures are achieved through Noise Rolling and Circular Padding, applied directly within the denoising loop to model the latent space as a toroidal surface.
 
 - **Latent Replication**  
   A structured initialization strategy applied at ~60% of the denoising process to upscale resolution while preventing structural drift.
