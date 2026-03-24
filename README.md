@@ -44,8 +44,8 @@ This work introduces a generative approach to perform **semantic upscaling** fro
 ```text
 .
 ├── assets/
-├── main_irregular.ipynb
-├── main_regular.ipynb
+├── main_irregular.ipynb  # code for texture with irregular patterns
+├── main_regular.ipynb    # code for texture with regular patterns
 ├── docs/
 │   └── textile-generation_presentation.pdf
 ├── README.md
