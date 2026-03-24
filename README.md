@@ -40,6 +40,18 @@ This work introduces a generative approach to perform **semantic upscaling** fro
 - **VAE Decoder:** Fine-tuned MSE (ft-mse) variant for high-frequency detail preservation  
 - **Hardware:** NVIDIA Quadro P4000 (Pascal architecture)
 
+## Project Structure
+
+.
+├── assets/
+├── main_irregular.ipynb
+├── main_regular.ipynb
+├── docs/
+│   └── textile-generation_presentation.pdf
+├── README.md
+├── .gitignore
+├── LICENSE
+
 ## Authors
 
 - **Federica Di Giaimo**  
