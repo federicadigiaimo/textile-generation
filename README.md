@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Model-Stable_Diffusion_v1.5-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+<img src="https://img.shields.io/badge/License-GPL_v2-brightgreen?style=flat-square" alt="License">
 
 This repository contains a toolkit for the semantic expansion and synthesis of textile textures, developed as part of a Master’s Thesis in Computer Engineering at the University of Bologna.
 
