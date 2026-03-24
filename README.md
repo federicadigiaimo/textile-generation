@@ -41,7 +41,7 @@ This work introduces a generative approach to perform **semantic upscaling** fro
 - **Hardware:** NVIDIA Quadro P4000 (Pascal architecture)
 
 ## Project Structure
-
+```text
 .
 ├── assets/
 ├── main_irregular.ipynb
