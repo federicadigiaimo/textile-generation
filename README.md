@@ -27,7 +27,8 @@ This work introduces a generative approach to perform **semantic upscaling** fro
   Seamless textures are achieved through:
   - Noise Rolling  
   - Circular Padding
-  applied directly within the denoising loop, effectively modeling the latent space as a toroidal surface.
+
+applied directly within the denoising loop, effectively modeling the latent space as a toroidal surface.
 
 - **Latent Replication**  
   A structured initialization strategy applied at ~60% of the denoising process to upscale resolution while preventing structural drift.
